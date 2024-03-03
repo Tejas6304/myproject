@@ -11,9 +11,11 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-
-Open server folder in Separate Window .
-Run the server by using node server.js
+### Create Database in Postgresql
+### Code is given in txt file
+### Open react folder and run it by using 'npm start'
+### Open server folder in Separate Terminal .
+### Run the server by using node server.js
 
 # Screenshots
 ![Screenshot (336)](https://github.com/Tejas6304/myproject/assets/157821965/f7050905-4c3b-4750-9108-f5b2a32aa77d)
